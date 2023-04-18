@@ -1,0 +1,12 @@
+:root {
+    /* COLORS */
+    --very-dark-gray: hsl(0, 0%, 17%);
+    --dark-gray: hsl(0, 0%, 59%);
+
+    /* BODY COPY */
+    --body-copy: 18px;
+    --light:400;
+    --medium: 500;
+    --bold: 700;
+    --poppins: 'Poppins', sans-serif;
+}
